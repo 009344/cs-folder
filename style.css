@@ -6,6 +6,10 @@ h1{
   font-family:fantasy;
 }
 
+.no {
+  color:white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
